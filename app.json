@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Berry",
+    "slug": "berry",
+    "description": "This an app which can edit your life and ideas easily!",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ea2c47"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-9786663498474045~8680184965"
+      },
+      "supportsTablet": true,
+      "bundleIdentifier": "com.oguzydz.berry"
+    },
+    "android": {
+      "package": "com.oguzydz.berry",
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-9786663498474045~8680184965"
+      },
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.oguzydz.berry",
+      "permissions": []
+    }
+  }
+}
