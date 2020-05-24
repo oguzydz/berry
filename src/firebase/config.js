@@ -1,5 +1,4 @@
 export const config = {
-    
     apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     authDomain: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,
     databaseURL: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
